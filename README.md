@@ -39,7 +39,7 @@ PS C:\Code\PowerShell\Projects\Create-DateList> .\Create-DateList.ps1
 
 ### ARCHITECTURE REQUIREMENTS
 
-1. Access Windows Powershell: Open the Start menu, type Windows PowerShell, select Windows PowerShell, then select Open
+1. Access Windows PowerShell: Open the Start menu, type Windows PowerShell, select Windows PowerShell, then select Open
 1. The execution policy may need to be changed.  Read [Set-ExecutionPolicy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4) for details.
 
 ### GIT NOTES
