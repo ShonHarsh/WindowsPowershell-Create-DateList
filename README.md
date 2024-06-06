@@ -49,8 +49,8 @@ Clone the project to develop or change it.
 `git clone https://github.com/ShonHarsh/Create-DateList`
 
 ### LINKS
-- [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [Windows PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview)
+- [Windows PowerShell GitHub](https://github.com/MicrosoftDocs/PowerShell-Docs)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
