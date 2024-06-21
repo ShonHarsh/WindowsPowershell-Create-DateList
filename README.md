@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/powershell-logo.jpg)
+![PowerShell-banner](Data/Images/WindowsPowershell-Create-DateList-Banner.png)
 
 # Create-DateList
 
